@@ -1,0 +1,16 @@
+C:\Users\Gidroid\source\repos\To Do List App\bin\Debug\net8.0-windows\To Do List App.exe
+C:\Users\Gidroid\source\repos\To Do List App\bin\Debug\net8.0-windows\To Do List App.deps.json
+C:\Users\Gidroid\source\repos\To Do List App\bin\Debug\net8.0-windows\To Do List App.runtimeconfig.json
+C:\Users\Gidroid\source\repos\To Do List App\bin\Debug\net8.0-windows\To Do List App.dll
+C:\Users\Gidroid\source\repos\To Do List App\bin\Debug\net8.0-windows\To Do List App.pdb
+C:\Users\Gidroid\source\repos\To Do List App\obj\Debug\net8.0-windows\To_Do_List_App.ToDoList.resources
+C:\Users\Gidroid\source\repos\To Do List App\obj\Debug\net8.0-windows\To Do List App.csproj.GenerateResource.cache
+C:\Users\Gidroid\source\repos\To Do List App\obj\Debug\net8.0-windows\To Do List App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gidroid\source\repos\To Do List App\obj\Debug\net8.0-windows\To Do List App.AssemblyInfoInputs.cache
+C:\Users\Gidroid\source\repos\To Do List App\obj\Debug\net8.0-windows\To Do List App.AssemblyInfo.cs
+C:\Users\Gidroid\source\repos\To Do List App\obj\Debug\net8.0-windows\To Do List App.csproj.CoreCompileInputs.cache
+C:\Users\Gidroid\source\repos\To Do List App\obj\Debug\net8.0-windows\To Do List App.dll
+C:\Users\Gidroid\source\repos\To Do List App\obj\Debug\net8.0-windows\refint\To Do List App.dll
+C:\Users\Gidroid\source\repos\To Do List App\obj\Debug\net8.0-windows\To Do List App.pdb
+C:\Users\Gidroid\source\repos\To Do List App\obj\Debug\net8.0-windows\To Do List App.genruntimeconfig.cache
+C:\Users\Gidroid\source\repos\To Do List App\obj\Debug\net8.0-windows\ref\To Do List App.dll
